@@ -49,7 +49,7 @@ echo ""
 
 # STUDENT TASK: Decode the transaction to get the TXID
 # WRITE YOUR SOLUTION BELOW:
-TXID=
+TXID= 
 check_cmd "Transaction decoding" "TXID" "$TXID"
 
 echo "Transaction ID: $TXID"
